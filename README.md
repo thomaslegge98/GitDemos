@@ -5,7 +5,7 @@ A testing ground for junior NUbots members to try Git and GitHub
 
 Follow these steps to get started, then follow the steps in `Tasks.md`.
 
-1. Clone this repository. Use a linux or MacOS command line to swap to your source code/programs directory, then run this command: `git clone https://github.com/NUbots/GitDemos.git`.
+1. Clone this repository (or "repo" for short). Use a linux or MacOS command line to swap to your source code/programs directory, then run this command: `git clone https://github.com/NUbots/GitDemos.git`.
 
 2. Open the [git guide on NUbook](https://nubook.nubots.net/guides/general/git) (this step is in large part just so you know it exists)
 
