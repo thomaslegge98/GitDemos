@@ -1,0 +1,9 @@
+# Add your favourite food to the list.
+# Try to maintain valid .yaml formatting.
+# yaml is the markup language we use for config and data files.
+# It's like XML or JSON, but nicer for humans to read.
+# (yes, yaml does have semantic whitespace like python)
+
+FavouriteFoods:
+  # Add the food to this list on this line, if possible.
+  - ["Pizza"]
