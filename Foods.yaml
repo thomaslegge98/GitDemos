@@ -6,5 +6,5 @@
 
 FavouriteFoods:
   # Add the food to this list on this line, if possible.
-  - ["pizza", "kale_smoothies", "Sushi"]
+  - ["pizza", "kale_smoothies", "cheese", "pie", "Carbonara", "Sushi"]
 
