@@ -29,7 +29,7 @@ On GitKraken, right click on the latest `main` branch commit, and select create 
 
 6. Stage and commit your changes to that file. 
 
-7. Push your commits to `main`. This saves your commits to a branch on the remote repo, which is in this case on GitHub.
+7. Push your commits to `<your_last_name>/<thing_this_branch_does>`. This saves your commits to your branch on the remote repo, which is in this case on GitHub.
 
 8. Make a PR. If you go to the GitHub website for the repo (https://github.com/NUbots/GitDemos), there shouold be a prompt suggesting that you make a pull request, because you just pushed changes to a branch. Follow that prompt to make a PR. Make sure that you:
 - Give your PR a good title, describing the changes.
